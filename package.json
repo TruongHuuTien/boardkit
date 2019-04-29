@@ -1,12 +1,27 @@
 {
   "name": "boardkit",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "description": "UI Kit for Board Games",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruongHuuTien/boardkit.git"
+  },
+  "keywords": [
+    "board",
+    "game",
+    "ui"
+  ],
+  "author": "truonghuutien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TruongHuuTien/boardkit/issues"
+  },
+  "homepage": "https://github.com/TruongHuuTien/boardkit#readme",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
